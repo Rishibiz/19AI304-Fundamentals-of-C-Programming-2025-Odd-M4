@@ -96,7 +96,6 @@ void validateDate() {
         }
     }
 }
-
 int main() {
     // Step 3: Call the function
     validateDate();
